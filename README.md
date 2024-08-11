@@ -25,7 +25,7 @@
 <div>
   <h3>Front End Tools</h3>
 <div style="display:flex">
-  <img style="width:50px" src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"/>
+  <img style="width:150px" src="https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png"/>
   
 
 </div>
