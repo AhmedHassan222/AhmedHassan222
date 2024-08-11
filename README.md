@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ahmed Hassan</h1>
 
-A young-dumb 🤓 front end developer from Alexandria, Egypt
+front end developer from Alexandria, Egypt
 
 💬 Ask me about react, Angular
 
