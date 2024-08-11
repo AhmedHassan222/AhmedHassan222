@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/106d9a15-6851-4f5e-b781-07406600b0f5)<h1>Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 <br/>
 <h3>I'm Ahmed Hassan</h3>
 <h4>Software Engineer | Frontend Developer</h4>
@@ -18,6 +18,6 @@
   <h3>Frameworks and Libraries</h3>
 <div style="display:flex">
   <img style="width:50px" src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png"/>
-  <img style="width:50px" src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png"/>
+  <img style="width:50px" src="![image](https://github.com/user-attachments/assets/106d9a15-6851-4f5e-b781-07406600b0f5)"/>
 
 </div>
