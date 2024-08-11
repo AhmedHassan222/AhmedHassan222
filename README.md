@@ -1,31 +1,17 @@
-Hi 👋, I'm Rahul
-A young-dumb 🤓 front end developer from India 🇮🇳
-rahuldkjain/
+<h1>Hi 👋, I'm Ahmed Hassan</h1>
 
-rahuldkjain
+A young-dumb 🤓 front end developer from Alexandria, Egypt
 
-🤔 I’m looking for help with github-profile-readme-generator
+💬 Ask me about react, Angular
 
-💬 Ask me about react, vue and gsap
+📫 Reach me at ahmedhassan.2472@gmail.com
 
-📫 Reach me at rahuldkjain@gmail.com
-
-👨‍💻 All of my projects are available at rahuldkjain
-
-⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
-
-I have a bug to document technical stuffs that I do, which can be found at my blog
+👨‍💻 All of my projects are available at https://ahmedhassan222.github.io/portfolio
 
 Connect with me:
-rahuldkjain rahuldkjain rahuldkjain rahuldkjain rahul_dk_jain
+LinkedIn: https://www.linkedin.com/in/ahmed1hassan7/
 
-📕 Latest dev.to posts @rahuldkjain
-
-How I improved my GitHub profile?
-Awesome FrontendMasters course resources
-How to start and promote your open-source project?
-How to gain 1000+ stars on an open-source project quickly?
 Languages and Tools:
-html5 css3 javascript nodejs express vuejs react gatsby nextjs nuxtjs gridsome jest sass tailwind mongodb postgresql python xd
+html5 css3 javascript typescript angular react scss tailwind bootstrap regex
 
-rahuldkjain
+
