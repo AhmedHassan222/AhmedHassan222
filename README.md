@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ahmed Hassan</h1>
-<h3 align="center">Software Engineer | Frontend Developer</h3>
+<h3>Software Engineer | Frontend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://ahmedhassan222.github.io/portfolio/](https://ahmedhassan222.github.io/portfolio/)
 
