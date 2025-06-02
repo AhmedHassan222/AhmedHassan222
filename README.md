@@ -40,29 +40,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
 ###
