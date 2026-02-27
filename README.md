@@ -1,17 +1,100 @@
-<h1>Hi 👋, I'm Ahmed Hassan</h1>
-<h3>Software Engineer | Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
+<h3 align="center">Frontend Engineer | ERP Specialist | Angular Architect</h3>
 
-- 👨‍💻 All of my projects are available at [https://ahmedhassan222.github.io/portfolio/](https://ahmedhassan222.github.io/portfolio/)
-
-- 💬 Ask me about **Angular, React, and ASP.net**
-
-- 📫 How to reach me **ahmedhassan.2472@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed1hassan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed1hassan7" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed1hassan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed1hassan7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Angular%20Developer;React%20Engineer;ERP%20Systems%20Builder;Problem%20Solver;Clean%20Code%20Advocate&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 About Me
+
+- 💼 Frontend Developer with 2+ years experience  
+- 🏢 Currently working on **Enterprise ERP Systems**
+- 🏗️ Building scalable Angular architectures (Lazy loading, Atomic design, Signals)
+- 🔐 Focused on security, performance & clean code
+- 🧩 Strong in problem solving & algorithmic thinking
+- 📍 Based in Cairo | From Alexandria
+
+---
+
+## 🏗️ ERP Experience
+
+I work on real-world enterprise systems including:
+
+- Role-based dashboards (Admin / Super Admin / User)
+- Dynamic forms with complex validation
+- Complaint management systems
+- Passport & Traveler management modules
+- History tracking (Flights, Hotels, Hajj, Umrah)
+- Centralized API architecture
+- Base service abstraction for CRUD operations
+- JWT authentication with access & refresh tokens
+
+---
+
+## ⚙️ Tech Stack
+
+### 👨‍💻 Frontend
+- Angular 17+
+- React JS
+- TypeScript
+- JavaScript (ES6+)
+- RxJS
+- Signals
+- Reactive Forms
+
+### 🎨 UI & Styling
+- Bootstrap 5
+- Tailwind CSS
+- SCSS / SASS
+- Responsive Design
+- Atomic Design Pattern
+
+### 🧠 Architecture & Best Practices
+- SOLID Principles
+- Clean Code
+- Lazy Loading Modules
+- Protected Routes
+- Role-based Routing
+- Centralized API Config
+- Base Service Pattern
+
+### 🛠 Tools
+- Git & GitHub
+- Postman
+- VS Code
+- Figma (collaboration level)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Advanced Frontend Architecture
+- Performance Optimization
+- Security in Frontend Applications
+- Data Structures & Algorithms
+- Becoming Top 1% Engineer
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (add link)
+- Email: (add email)
+
+---
+
+<h3 align="center">⚡ Building systems. Not just pages.</h3>
